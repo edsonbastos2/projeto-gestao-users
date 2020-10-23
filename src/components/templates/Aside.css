@@ -1,0 +1,17 @@
+.menu-area{
+    background-color: var(--bg-dark);
+    box-shadow: 0 2px 2px 2px rgba(0,0,0,0.12);
+}
+
+.nav-menu a{
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.5em;
+}
+
+.nav-menu a:hover{
+    background-color: darkgreen;
+}
